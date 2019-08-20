@@ -1,6 +1,12 @@
-# UnitTestingAngular
+# Unit Testing i Angular
 
 Dette projekt hører til video tutorial´en Unit Testing i Angular på ng-videos.com.
+
+## Video Tutorial Site
+https://ng-videos.com
+
+## Blog Site
+https://www.ng-tutorials.com
 
 ## Development server
 
