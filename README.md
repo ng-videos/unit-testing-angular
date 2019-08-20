@@ -1,6 +1,6 @@
 # UnitTestingAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
+Dette projekt hører til video tutorial´en Unit Testing i Angular på ng-videos.com.
 
 ## Development server
 
